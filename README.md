@@ -1,3 +1,3 @@
 # template-example-1
 
-Link:
+Link: https://fatihfurkankurt.github.io/template-example-1/
